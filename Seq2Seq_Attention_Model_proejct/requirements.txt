@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+torch
+ipykernel
+unidecode
+sklearn
+matplotlib
+seaborn
